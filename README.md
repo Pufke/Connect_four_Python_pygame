@@ -2,7 +2,7 @@ Coding Challenge
 conEEct Four
 
 NAČIN POKRETANJA 
-	--Prvi način za pokretanje igre, generisao sam .exe fajl kom mozete direktno pristupiti na bilo kom računaru
+	--Prvi način za pokretanje igre, generisao sam .exe fajl kom možete direktno pristupiti na bilo kom računaru
 	--Drugi način je da instalirate pip na vaš računar, kao i potrebne biblioteke u kojima sam radio, pygame, numpy... Kada isntalirate sve potrebne biblioteke i python na vaš računar bićete u mogućnosti da pokrenete kod, dvoklikom na .py datoteku pokrenuće se konzola kao i GUI aplikacija.
 
 NAČIN IGRANJA 	
